@@ -12,3 +12,6 @@ Anotações referentes a trilha de conhecimento Data Science
 [Relatório 4](pages/14_08.md)
 
 [Relatório 5](pages/21_08.md)
+
+
+[Tarefa 2](pages/21_08.md)
